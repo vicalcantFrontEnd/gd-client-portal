@@ -1,6 +1,7 @@
+
 import { Component } from '@angular/core';
 import { MenuBarComponent } from '../../share/components/menu-bar/menu-bar.component';
-import {MatButtonModule} from '@angular/material/button'; 
+import { MatButtonModule } from '@angular/material/button';
 
 @Component({
   selector: 'app-home',
